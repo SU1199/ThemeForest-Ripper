@@ -1,5 +1,5 @@
 # ThemeForest Ripper
-[![](https://www.jack-the-ripper.org/images/ghost-image.jpg))](http://binarymaniac.com/2019/04/24/selenium-script-to-download-any-theme/)
+[![](https://www.jack-the-ripper.org/images/ghost-image.jpg))](http://blog.danishjoshi.com/2019/04/24/selenium-script-to-download-any-theme/)
 
 Python script to download any theme (non-WordPress) from ThemeForest using selenium.
 
